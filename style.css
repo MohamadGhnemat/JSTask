@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: blueviolet;
+  color: white;
+}
+.container {
+  border: 3px solid rgb(192, 43, 197);
+  padding: 30px 20px;
+  text-align: center;
+}
+.result {
+  font-size: 25px;
+}
